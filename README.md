@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Aromolaran</h1>
+
 - 🔭 I’m currently working on [connecto](https://github.com/PaulAroo/connecto)
 
 - 👯 I’m looking to collaborate on [sparrow-rtc](https://github.com/chase-moskal/sparrow-rtc)
