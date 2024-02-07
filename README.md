@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with [callee](https://github.com/PaulAroo/callee)
 
-- 💬 Ask me about **Web components, Lit, React, NextJs, gsap**
+- 💬 Ask me about **Web components, Lit, React, NextJs**
 
 - 📫 How to reach me **timmypaul2006@gmail.com**
 
