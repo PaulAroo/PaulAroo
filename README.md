@@ -10,6 +10,8 @@
 
 ## Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paularoo&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Paul's Github stats](https://github-readme-stats.vercel.app/api?username=paularoo&show_icons=true&locale=en&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paularoo&theme=dark)](https://git.io/streak-stats)
